@@ -26,8 +26,7 @@ The dash represents the missing verb "is".
 
 
 ## **Pronouns and Questions**
-In Russian, they don't really use the verb "to be" (am/is/are) is usually not there in present tense. When you form a question the word order often stays the same.
-It's indicated by the question mark. This works on these words that I've learned:
+In Russian, they don't really use the verb "to be" (am/is/are) is usually not there in present tense. When you form a question the word order often stays the same, it's indicated by the question mark. This works on these words that I've learned:
 | Russian | Statement | Question |
 |---|---|---|
 | Это | This is | Is this? |
