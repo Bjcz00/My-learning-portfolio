@@ -42,7 +42,7 @@ This result gave another important thing about the suspect, besides further conf
 With the results from the previous step I continued my search. I used both these results to look for a suspect with both of the qualities.
 
 ### SQL Query:
-**SELECT * FROM suspects WHERE attire="trench coat" AND scar="left cheek"
+**SELECT * FROM suspects WHERE attire="trench coat" AND scar="left cheek"**
 
 ### Result:
 | ID | Name | Attire | Scar
@@ -58,13 +58,13 @@ The quary gave me two suspects that matched the description. Since both of them 
 The final step is looking through the interviews to tell who the suspect is. For this, I had to do 2 queries to check both the suspects with their ID.
 
 ### SQL Query 1:
-** SELECT FROM interviews WHERE suspect_id=3
+**SELECT FROM interviews WHERE suspect_id=3**
 
 ### Result Query 1:
 NULL. This means there was no interview transcript available for Frankie Lombardi.
 
 ### SQL Query 2:
-** SELECT FROM interviews WHERE suspect_id=183
+**SELECT FROM interviews WHERE suspect_id=183**
 
 ### Result Query 2:
 "I wasn't going to steal it, but I did."
