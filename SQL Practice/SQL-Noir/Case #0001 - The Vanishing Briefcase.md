@@ -71,6 +71,5 @@ NULL. This means there was no interview transcript available for Frankie Lombard
 
 
 # Final Conclusion
-<badge color="success">Case solved</badge>
 The identified suspect is **Vincent Malone**. He has admitted to being the person responsible for the theft.
 This went better as I had expected as I've never used SQL prior to this. 
