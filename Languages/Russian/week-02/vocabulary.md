@@ -4,13 +4,17 @@
 | Russian | English | Pronunciation |
 |---|---|---|
 | Ем | I eat | jem |
-| Ест | He/She/It eats | jest |
+| Ест | He/She eats | jest |
+| Пью | I drink | pjoe |
+| Пьёт | He/She drinks | pjot |
+
 
 ## Names
 | Russian | English | Pronunciation |
 |---|---|---|
 | Финн | Finn | FIN |
 | Янник | Yannick | JAN-nik |
+| Александра | Alexandra | a-lik-SAN-dra |
 
 ## Vocabulary
 | Russian | English | Pronunciation |
@@ -20,3 +24,6 @@
 | Молоко | Milk | ma-la-KO |
 | Хлеб | Bread | CHLJEP |
 | Мясо | Meat | MJA-sa |
+| Кофе | Coffee | KO-fye |
+| Вино | Wine | vee-NO |
+
