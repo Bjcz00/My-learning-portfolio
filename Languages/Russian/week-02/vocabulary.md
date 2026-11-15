@@ -7,6 +7,7 @@
 | Ест | He/She eats | jest |
 | Пью | I drink | pjoe |
 | Пьёт | He/She drinks | pjot |
+| хочу | want | kha-CHOO |
 
 
 ## Names
@@ -26,4 +27,5 @@
 | Мясо | Meat | MJA-sa |
 | Кофе | Coffee | KO-fye |
 | Вино | Wine | vee-NO |
-
+| Сок | Juice | sok |
+| Меню | Menu |	meh-NYOO |
